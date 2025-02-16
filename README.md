@@ -1,7 +1,7 @@
-Sentiment-Analysis of Twitter Dataset
+**Sentiment-Analysis of Twitter Dataset**
 In this project, we delve into understanding the sentiment expressed in tweets through the lens of machine learning. Our goal is to effectively classify tweets into positive, negative, or neutral sentiments utilizing a combination of Random Forest classification and TF-IDF (Term Frequency-Inverse Document Frequency) vectorization techniques.
 
-Methodology
+**Methodology**
 Key steps of the system design are:
 
 Data Collection: The data is collected from twitter such as comments, hashtags, and tweets and then this collected data is converted into CSV file format for model to work with it.
